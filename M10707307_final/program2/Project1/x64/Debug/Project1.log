@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\課程資料\3d\m10707307_final\program2\project1\main.cpp(20): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\課程資料\3d\m10707307_final\program2\project1\main.cpp(29): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  Project1.vcxproj -> D:\課程資料\3D\M10707307_final\program2\x64\Debug\Project1.exe
